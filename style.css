@@ -743,6 +743,12 @@ margin: 0px 20px;
 
 @media(max-width: 750px){
 
+    #aside{
+display: none;
+    }
+    #side{
+        display: none;
+    }
     
 body {
     margin: 0px;
