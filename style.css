@@ -479,7 +479,7 @@ margin: 0px 20px;
         padding: 0px;
         width: auto;
         height: auto;
-       background-color: #d34926 ;
+       background-color: #c73815 ;
        border-radius: 5px;
     }
      #foot{
@@ -513,7 +513,7 @@ margin: 0px 20px;
         padding: 5px;
         font-family: sans-serif;
         font-size: 20px;
-        font-weight: bolder;
+       
         color: white;
 
     }
@@ -522,18 +522,18 @@ margin: 0px 20px;
         padding: 5px;
         font-family: sans-serif;
         font-size: 20px;
-        font-weight: bolder;
+       
         color: white;
 
     }
     
    footer ul a:hover{
         color: black;
-        font-size: 19px;
+
     }
    #foot ul a:hover{
         color: black;
-        font-size: 19px;
+       
     } 
     
     
@@ -1160,7 +1160,7 @@ body {
         padding-top: 10px;
         width: 100%;
         height: auto;
-       background-color:#154360;
+       background-color:rgb(233, 76, 19);
     }
     
    footer ul {
@@ -1175,13 +1175,13 @@ body {
         text-decoration: none;
         font-family: sans-serif;
         font-size: 16px;
-        font-weight: bolder;
+       
         color: white;
     }
     
    footer ul a:hover{
         color: black;
-        font-size: 17px;
+        
     }
     
     
@@ -1199,7 +1199,7 @@ body {
         padding: 1px;
         font-family: sans-serif;
         font-size: 16px;
-        font-weight: bolder;
+        
         color: white;
        text-align: center;
     }
